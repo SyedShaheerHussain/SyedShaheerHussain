@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Syed Shaheer Hussain 🌙🇵🇰
+# 👋 Hey, I’m **Syed Shaheer Hussain** 🌙🇵🇰
 Hands-on learner | Professional problem-breaker | Practical Security & Cryptography Focus
 
 Athelete | Art | Chess | Money | Pray | Peace 
@@ -7,7 +7,7 @@ Cyber Security student by degree, problem-solver by habit. A strong focus on han
 
 ## 🧠 Who am I?
 
-I’m Syed Shaheer Hussain, currently doing my Bachelor’s in Cyber Security (BSCY).
+I’m **Syed Shaheer Hussain**, currently doing my Bachelor’s in **Cyber Security (BSCY)**.
 I spend most of my time breaking problems, fixing them again, and pretending it was all part of the plan. A strong interest in vulnerability analysis, information assurance, and encryption technologies. My learning approach is lab-driven, focusing on practical implementation rather than purely theoretical understanding.
 
 I code. 
