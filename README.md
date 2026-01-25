@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Syed Shaheer Hussain 🌙<img width="128" alt="Pakistan Flag" src="https://github.com/user-attachments/assets/1bde3216-7a90-48be-810e-5dffdaf4dd7b" />
+# 👋 Hey, I’m Syed Shaheer Hussain 🌙<img width="28" alt="Pakistan Flag" src="https://github.com/user-attachments/assets/1bde3216-7a90-48be-810e-5dffdaf4dd7b" />
 Hands-on learner | Professional problem-breaker | Practical Security & Cryptography Focus
 Athelete | Art | Chess | Money | Pray | Peace 
 
