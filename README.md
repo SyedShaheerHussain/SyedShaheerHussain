@@ -1,7 +1,7 @@
 # 👋 Hey, I’m **Syed Shaheer Hussain** 🌙🇵🇰
 Hands-on learner | Professional problem-breaker | Practical Security & Cryptography Focus
 
-Athelete | Art | Chess | Money | Pray | Peace 
+Athlete | Art | Chess | Money | Pray | Peace 
 
 Cyber Security student by degree, problem-solver by habit. A strong focus on hands-on security practices, encryption technologies, and vulnerability analysis.
 
