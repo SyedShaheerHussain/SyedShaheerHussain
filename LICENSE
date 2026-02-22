@@ -1,0 +1,72 @@
+MIT License
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+Copyright (c) 2026 Syed Shaheer Hussain
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Description
+
+Please describe your changes clearly.
+
+## Type of Change
+
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Documentation update
+- [ ] Refactoring
+
+## Security Impact
+
+Does this introduce any security changes?
+
+## Checklist
+
+- [ ] Code reviewed
+- [ ] No sensitive data exposed
+- [ ] Documentation updated
+
+# Code of Conduct
+
+This repository is committed to providing a professional and respectful environment.
+
+All contributors are expected to:
+
+- Be respectful and constructive
+- Provide clear and professional communication
+- Follow responsible disclosure practices
+
+Unacceptable behavior may result in restricted access.
+
+Maintained by Syed Shaheer Hussain.
+
+## 🤝 Contributing
+
+By submitting a contribution to this repository, you agree that your contribution will be licensed under the MIT License.
+
+All contributions must comply with the repository’s security and code quality standards.
+
+## 📄 License
+
+This project is licensed under the MIT License © 2026 Syed Shaheer Hussain.
+
+See the [LICENSE](LICENSE) file for details.
