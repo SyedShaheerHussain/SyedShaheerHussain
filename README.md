@@ -349,3 +349,21 @@ So…
 [![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)]()
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)]()
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)]()
+
+## ⭐ Support & Engagement
+
+If you find this repository useful or insightful, please consider:
+
+- ⭐ Starring the repository
+- 🔁 Sharing it within your network
+- 👤 Following my GitHub profile for future projects and updates
+
+Your support helps drive continued innovation and open-source contributions.
+
+— Syed Shaheer Hussain
+
+[![GitHub followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Follow&style=social)](https://github.com/SyedShaheerHussain)
+
+![Followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Followers&color=blue)
+
+![Stars](https://img.shields.io/github/stars/SyedShaheerHussain/SyedShaheerHussain?label=Stars&color=yellow)
