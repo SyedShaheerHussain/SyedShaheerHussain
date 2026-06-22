@@ -192,7 +192,7 @@ So…
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/BU8QFHhb)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@syedshaheer)
 [![Lichess](https://img.shields.io/badge/Lichess-thegreatshaheer-black?logo=lichess)](https://lichess.org/@/shaheerchessed)
-![chess-profile-widget](https://chess-profile-widget.onrender.com/widget?https://www.chess.com/member/theshaheerhussain&theme=your-theme&logo=false)
+![chess-profile-widget](https://chess-profile-widget.onrender.com/widget?https://www.chess.com/member/theshaheerhussain)
 
 ### 🔠 Languages
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
