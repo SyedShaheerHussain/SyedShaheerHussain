@@ -192,7 +192,7 @@ So…
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/BU8QFHhb)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@syedshaheer)
 [![Lichess](https://img.shields.io/badge/Lichess-thegreatshaheer-black?logo=lichess)](https://lichess.org/@/shaheerchessed)
-[!Chess.com](https://www.chess.com/member/theshaheerhussain)
+[![Chesscom]([https://img.shields.io/badge/Lichess-thegreatshaheer-black?logo=lichess](https://www.google.com/imgres?q=chess.com&imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2Fce_EvpNlsbZTXRNLOoDVy8ZhHZcYEHVHefwdg9d0x7BZAk5AGXFteEILFmrBnGF_LLvE1HEU3LE%3Ds900-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwwwchesscom&docid=OQoFXFIf84OcyM&tbnid=A2AzcTFd1sjWhM&vet=12ahUKEwiw4IG2vZuVAxU-U6QEHWiKLpgQnPAOegQIRRAA..i&w=900&h=900&hcb=2&ved=2ahUKEwiw4IG2vZuVAxU-U6QEHWiKLpgQnPAOegQIRRAA))]([https://lichess.org/@/shaheerchessed](https://www.chess.com/member/theshaheerhussain))
 
 ### 🔠 Languages
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
